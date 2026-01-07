@@ -8,16 +8,6 @@ A Python tool for generating animated visualizations I used for presentations, i
 - **Wave Animation**: Creates animated phase-colored wave visualizations (MP4)
 - **Network Animation**: Generates animated neural network structure visualizations (GIF)
 
-## Examples
-
-### Wave Animation
-📹 [View Wave Animation Video](renders/Drawing%20a%20phase-colored%20wave.mp4)
-
-*Note: GitHub doesn't display MP4 files directly in markdown. Click the link above to view the video.*
-
-### Network Animation
-
-![Network Animation](renders/network_animation.gif)
 
 ## Usage
 
